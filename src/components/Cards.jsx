@@ -69,7 +69,7 @@ const Cards = ({ searchTerm }) => {
                                     >
                                         {copiedId === card._id ? 'Copied!' : 'Copy'}
                                     </button>
-                                    <a href="https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_source=google&utm_medium=paid-media&utm_medium=cpc&utm_campaign=bkws&utm_campaign=2024enIN_gemfeb&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20357620749&gbraid=0AAAAApk5BhkLwcFgp0knlOK6qq-Qii7_X&gclid=Cj0KCQjwrc7GBhCfARIsAHGcW5VZlIUPWAM7tq82od_2XTdAlPeWb7-wl4h77cI7BAGjW0RoqRZNU_8aAlYIEALw_wcB" target="_blank" rel="noopener noreferrer" className="create-btn">
+                                    <a href="https://gemini.google.com/app" className="create-btn">
                                         Create Now<i className="fa-solid fa-arrow-right"></i>
                                     </a>
                                 </div>
