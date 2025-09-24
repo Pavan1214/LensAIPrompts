@@ -15,8 +15,8 @@ const Footer = () => {
           <div className="contact">
             <div className="c-heading"><h4>Contacts</h4></div>
             <div className="c-icons">
-              <a href=""><i class="fa-brands fa-instagram"></i></a>
-              <a href="https://wa.me/9912964095"><i class="fa-brands fa-whatsapp"></i></a>
+              <a href="https://www.instagram.com/_theway_99?igsh=MW52djJyMWcxeDZ3NQ=="><i class="fa-brands fa-instagram"></i></a>
+              <a href="https://wa.me/+91 9912964095"><i class="fa-brands fa-whatsapp"></i></a>
               <a href="mailto:businessmainid7799@gmail.com"><i class="fa-solid fa-envelope"></i></a>
             </div>
           </div>
